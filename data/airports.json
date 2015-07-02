@@ -1,0 +1,154 @@
+[{
+  "iata": "00M",
+  "name": "Thigpen",
+  "city": "Bay Springs",
+  "state": "MS",
+  "country": "USA",
+  "latitude": "31.95376472",
+  "longitude": "-89.23450472",
+  "count": 100
+}, {
+  "iata": "00R",
+  "name": "Livingston Municipal",
+  "city": "Livingston",
+  "state": "TX",
+  "country": "USA",
+  "latitude": "30.68586111",
+  "longitude": "-95.01792778",
+  "count": 100
+}, {
+  "iata": "00V",
+  "name": "Meadow Lake",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "country": "USA",
+  "latitude": "38.94574889",
+  "longitude": "-104.5698933",
+  "count": 100
+}, {
+  "iata": "01G",
+  "name": "Perry-Warsaw",
+  "city": "Perry",
+  "state": "NY",
+  "country": "USA",
+  "latitude": "42.74134667",
+  "longitude": "-78.05208056",
+  "count": 100
+}, {
+  "iata": "01J",
+  "name": "Hilliard Airpark",
+  "city": "Hilliard",
+  "state": "FL",
+  "country": "USA",
+  "latitude": "30.6880125",
+  "longitude": "-81.90594389",
+  "count": 100
+}, {
+  "iata": "01M",
+  "name": "Tishomingo County",
+  "city": "Belmont",
+  "state": "MS",
+  "country": "USA",
+  "latitude": "34.49166667",
+  "longitude": "-88.20111111",
+  "count": 100
+}, {
+  "iata": "02A",
+  "name": "Gragg-Wade",
+  "city": "Clanton",
+  "state": "AL",
+  "country": "USA",
+  "latitude": "32.85048667",
+  "longitude": "-86.61145333",
+  "count": 100
+}, {
+  "iata": "02C",
+  "name": "Capitol",
+  "city": "Brookfield",
+  "state": "WI",
+  "country": "USA",
+  "latitude": "43.08751",
+  "longitude": "-88.17786917",
+  "count": 100
+}, {
+  "iata": "02G",
+  "name": "Columbiana County",
+  "city": "East Liverpool",
+  "state": "OH",
+  "country": "USA",
+  "latitude": "40.67331278",
+  "longitude": "-80.64140639",
+  "count": 100
+}, {
+  "iata": "03D",
+  "name": "Memphis Memorial",
+  "city": "Memphis",
+  "state": "MO",
+  "country": "USA",
+  "latitude": "40.44725889",
+  "longitude": "-92.22696056",
+  "count": 100
+}, {
+  "iata": "04M",
+  "name": "Calhoun County",
+  "city": "Pittsboro",
+  "state": "MS",
+  "country": "USA",
+  "latitude": "33.93011222",
+  "longitude": "-89.34285194",
+  "count": 100
+}, {
+  "iata": "04Y",
+  "name": "Hawley Municipal",
+  "city": "Hawley",
+  "state": "MN",
+  "country": "USA",
+  "latitude": "46.88384889",
+  "longitude": "-96.35089861",
+  "count": 100
+}, {
+  "iata": "05C",
+  "name": "Griffith-Merrillville",
+  "city": "Griffith",
+  "state": "IN",
+  "country": "USA",
+  "latitude": "41.51961917",
+  "longitude": "-87.40109333",
+  "count": 100
+}, {
+  "iata": "RAL",
+  "name": "Riverside Municipal",
+  "city": "Riverside",
+  "state": "CA",
+  "country": "USA",
+  "latitude": "33.95187528",
+  "longitude": "-117.4451017",
+  "count": 100
+}, {
+  "iata": "SAN",
+  "name": "San Diego International-Lindbergh",
+  "city": "San Diego",
+  "state": "CA",
+  "country": "USA",
+  "latitude": "32.73355611",
+  "longitude": "-117.1896567",
+  "count": 100
+}, {
+  "iata": "SFO",
+  "name": "San Francisco International",
+  "city": "San Francisco",
+  "state": "CA",
+  "country": "USA",
+  "latitude": "37.61900194",
+  "longitude": "-122.3748433",
+  "count": 100
+}, {
+  "iata": "SJC",
+  "name": "San Jose International",
+  "city": "San Jose",
+  "state": "CA",
+  "country": "USA",
+  "latitude": "37.36186194",
+  "longitude": "-121.9290089",
+  "count": 100
+}]
